@@ -1,0 +1,4 @@
+﻿"series,error_std_baseline,error_std_model,safety_stock_baseline,safety_stock_model,safety_stock_saved_%"
+"Fast seller (item 15),22.7,9.6,99,42,57.6"
+"Medium seller (item 9),16.2,8.1,71,36,49.7"
+"Slow seller (item 5),6.6,4.7,29,21,28.3"

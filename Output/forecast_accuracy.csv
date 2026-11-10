@@ -1,0 +1,4 @@
+﻿"series,avg_daily_sales_test,baseline_MAPE_%,HW_weekly_MAPE_%,HW_weekly+yearly_MAPE_%"
+"Fast seller (item 15),117.0,22.7,18.9,6.5"
+"Medium seller (item 9),68.1,27.0,22.9,10.1"
+"Slow seller (item 5),24.7,26.6,24.0,14.7"
