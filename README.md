@@ -86,13 +86,5 @@ Python (pandas, NumPy, Matplotlib, Seaborn, statsmodels) · Jupyter Notebook · 
 ├── requirements.txt
 └── README.md
 ```
-
-## How to run
-
-1. Download `train.csv` from the Kaggle link above and place it in the same folder as the notebook.
-2. Install the libraries: `pip install -r requirements.txt`
-3. Open `demand_forecasting.ipynb` and run all cells.
-
-
 ---
 **Author:** Aastha Verma · [LinkedIn](https://www.linkedin.com/in/verma-aastha)
